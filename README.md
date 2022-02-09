@@ -6,8 +6,6 @@ Software Developer | Backend Developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lu%C3%ADs-vitor-vilhena-alves-9568a5206/)](https://www.linkedin.com/in/lu%C3%ADs-vitor-vilhena-alves-9568a5206/)
 [![Gmail Badge](https://img.shields.io/badge/-luis.sg.vitor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luis.sg.vitor@gmail.com)](mailto:luis.sg.vitor@gmail.com)
-> “The computer programmer is a creator of universes for which he alone is the lawgiver. No playwright, no stage director, no emperor, however powerful, has ever exercised such absolute authority to arrange a stage or field of battle and to command such unswervingly dutiful actors or troops.”
-― Joseph Weizenbaum
 
 ### 💻 What I'm focusing on now
 Currently improving Cloud Computing skills and queue management =)
