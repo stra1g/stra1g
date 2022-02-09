@@ -37,7 +37,7 @@ Currently improving Cloud Computing skills and queue management =)
 <div>
   <a href="https://github.com/stra1g">
   <img height="192em" src="https://github-readme-stats.vercel.app/api?username=stra1g&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=stra1g&theme=blueberry_duo" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=stra1g&theme=blueberry_duo" />
   
 </div>
  
