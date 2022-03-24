@@ -31,7 +31,6 @@ Currently improving Cloud Computing skills and queue management =)
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 📈 GitHub Stats
- [![stra1g's github activity graph](https://activity-graph.herokuapp.com/graph?username=stra1g&theme=react-dark)](https://git.io/stra1g)
  <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=stra1g&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=stra1g&theme=blueberry_duo" />
