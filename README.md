@@ -32,7 +32,7 @@ Currently improving Cloud Computing skills and queue management =)
 
 ### 📈 GitHub Stats
  <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=stra1g&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=stra1g&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=stra1g&theme=blueberry_duo" />
 </p>
  
