@@ -2,8 +2,9 @@
  
 Software Engineer | Backend Developer.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lu%C3%ADs-vitor-vilhena-alves-9568a5206/)](https://www.linkedin.com/in/lu%C3%ADs-vitor-vilhena-alves-9568a5206/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-vt/)](https://www.linkedin.com/in/luis-vt/)
 [![Gmail Badge](https://img.shields.io/badge/-luis.sg.vitor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luis.sg.vitor@gmail.com)](mailto:luis.sg.vitor@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/siuxps)
 
 ### 💻 What I'm focusing on now
 Currently improving Cloud Computing skills and Microservices =)
